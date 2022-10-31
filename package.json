@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jrw@mit.edu",
+  "author": "moe@mit.edu",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
